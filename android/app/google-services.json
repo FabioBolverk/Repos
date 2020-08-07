@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110321982200",
+    "firebase_url": "https://apprepo-c5ccf.firebaseio.com",
+    "project_id": "apprepo-c5ccf",
+    "storage_bucket": "apprepo-c5ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110321982200:android:c28081f9f8a095d713390d",
+        "android_client_info": {
+          "package_name": "com.example.app_repo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110321982200-pl9p65gb6o01jcq4hgcq631rdvde5qs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmnjKq9pcAiHAc8Izsah-mAkLZAfa2iKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110321982200-pl9p65gb6o01jcq4hgcq631rdvde5qs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
